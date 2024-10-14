@@ -1,0 +1,49 @@
+{
+    "id": "2003DeMSA",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Bildungsstandards Deutsch MSA 2003"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v31",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "k1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Standards für die Kompetenzbereiche im Fach Deutsch"
+          }
+        ],
+        "filenameSource": "k1_Standards_Kompetenzbereiche.csv",
+        "filenameTarget": "k1_Standards_Kompetenzbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "n1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Anforderungsbereiche"
+          }
+        ],
+        "filenameSource": "n1_Anforderungsbereiche.csv",
+        "filenameTarget": "n1_Anforderungsbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "Die folgenden drei Anforderungsbereiche lassen sich unterscheiden und beschreiben:"
+          }
+        ]
+      }
+    ]
+  }
